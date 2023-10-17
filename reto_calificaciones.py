@@ -1,4 +1,5 @@
 #Fernanda Portillo Ortiz
+"https://replit.com/@FernandaPortil3/RetoParcial2"
 
 puntuacion = input("Escribe tu calificacion del examen:")
 asignaciones = input("escribe tus asignaciones completadas:")
